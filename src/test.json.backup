@@ -1,0 +1,1 @@
+[{"ac":12,"hp":10,"att":["Shortsword"],"abl":[12,11,10,7,8,9],"loot":["Goblin Ear"],"name":"Goblin","unique":"goblin"},{"ac":16,"hp":20,"att":["Leaf-bladed Sword"],"abl":[13,12,12,12,13,12],"loot":["20 gp","Wine"],"name":"Elf","unique":"elf"},{"ac":18,"hp":15,"att":["Axe"],"abl":[18,14,16,11,12,10],"loot":["15 gp","Stone"],"name":"Dwarf","unique":"dwarf"}]
