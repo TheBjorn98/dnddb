@@ -23,10 +23,10 @@ function main()
     edb1 = Enemydatabase("test.json", [e1, e2, e3])
     # @show edb1
 
-    es1 = findbyfield(edb1, x -> x.hp == 10)
-    @show es1
-    es2 = findbyfield(edb1, x -> x.name == "Goblin")
-    @show es2
+    # es1 = findbyfield(edb1, x -> x.hp == 10)
+    # @show es1
+    # es2 = findbyfield(edb1, x -> x.name == "Goblin")
+    # @show es2
     
     # d4 = read2dict(["unique", "name", "hp", "ac", "abl", "att", "loot"], [String, String, Int, Int, Vector{Int}, Vector{String}, Vector{String}])
     # @show d4
